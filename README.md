@@ -5,7 +5,7 @@
 - 💬 Ask me about **MERN Stack**, **Next.js** and **DevOps**
 - 📫 Reach me at **naushadkhank426@gmail.com**
 - 📄 Know more about me: [Resume Link](https://drive.google.com/file/d/1vY1vjW8zWRXFBIFuaaZ6TAdzv4OAKZV1/view?usp=drive_link)
-- ⚡ Fun fact: **Building side projects is my favorite way to learn!**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naushad-khan97) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamnosad_khan) 
