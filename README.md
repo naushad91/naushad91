@@ -1,9 +1,8 @@
-# 💫 About Me:
-- 🔭 Currently working on **Full Stack Blockchain Development**
-- 🌱 Learning **Web3**, **Cybersecurity**, and **AI tools**
-- 👯 Looking to collaborate on **exciting blockchain projects**
-- 💬 Ask me about **MERN Stack**, **Next.js** and **DevOps**
-- 📫 Reach me at **naushadkhank426@gmail.com**
+💫 About Me:
+🔧 Currently focused on DevOps for Full Stack Blockchain Applications
+🚀 Building CI/CD pipelines, automating infrastructure, and containerizing Web3 apps
+🌱 Exploring Cloud-Native DevOps, Web3, and AI Tools
+💬 Ask me about Docker, Kubernetes, Terraform, CI/CD, Next.js, and MERN Stack
 - 📄 Know more about me: [Resume Link](https://drive.google.com/file/d/1vY1vjW8zWRXFBIFuaaZ6TAdzv4OAKZV1/view?usp=drive_link)
 
 
