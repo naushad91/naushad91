@@ -1,9 +1,11 @@
 💫 About Me:
-🔧 Currently focused on DevOps for Full Stack Blockchain Applications
-🚀 Building CI/CD pipelines, automating infrastructure, and containerizing Web3 apps
-🌱 Exploring Cloud-Native DevOps, Web3, and AI Tools
-💬 Ask me about Docker, Kubernetes, Terraform, CI/CD, Next.js, and MERN Stack
-- 📄 Know more about me: [Resume Link](https://drive.google.com/file/d/1vY1vjW8zWRXFBIFuaaZ6TAdzv4OAKZV1/view?usp=drive_link)
+🔧 Core iOS Engineer | Mobile Dev Lover
+🚀 Building scalable, high-performance apps using Swift, SwiftUI, UIKit, and modern iOS architectures
+🧠 Deep into Swift Concurrency (async/await, Actors), memory management, and performance tuning
+🎨 Crafting pixel-perfect UI, smooth animations, and great UX
+🌱 Exploring cross-platform with Flutter & React Native, and integrating AI in mobile
+💬 Ask me about iOS system design, MVVM/Clean Architecture, Core Data, networking, testing, and App Store best practices
+- 📄 Know more about me: [Resume Link]([https://drive.google.com/file/d/1vY1vjW8zWRXFBIFuaaZ6TAdzv4OAKZV1/view?usp=drive_link](https://drive.google.com/file/d/1vRdi8CfYjtvsPJVndDFOD42_uGXBBQOO/view?usp=drive_link))
 
 
 ## 🌐 Socials:
@@ -11,57 +13,60 @@
 
 # 💻 Tech Stack:
 
+Here is your stack rewritten for a **Core iOS / Mobile Engineer** profile (Swift, SwiftUI, Flutter, React Native):
+
+---
+
 ### 🚀 Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge\&logo=swift\&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### 🛠️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+### 📱 Mobile Development
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge\&logo=swift\&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge\&logo=apple\&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge\&logo=flutter\&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 
-### ☁️ Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+### 🧠 Architecture & State
 
-### 🔧 DevOps & CI/CD
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
+![Combine](https://img.shields.io/badge/Combine-1C1C1E?style=for-the-badge\&logo=apple\&logoColor=white)
+![Swift Concurrency](https://img.shields.io/badge/Async/Await-0D96F6?style=for-the-badge)
 
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+### 🌐 Networking & Storage
 
-### 🎨 Design Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![URLSession](https://img.shields.io/badge/URLSession-0A84FF?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-4CAF50?style=for-the-badge)
+![CoreData](https://img.shields.io/badge/CoreData-0A84FF?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### 🛠️ Tools
+
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge\&logo=xcode\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge\&logo=fastlane\&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0A84FF?style=for-the-badge\&logo=apple\&logoColor=white)
+
+This now reflects you as a:
+
+**Core iOS Engineer + Mobile Dev Lover**
+with **SwiftUI, UIKit, Flutter, React Native, Concurrency, Architecture, Performance, and UI craft.**
+
+
+Here is the design section aligned with your **Mobile / iOS Engineer** profile:
+
+### 🎨 UI / Design Tools
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
+![SF%20Symbols](https://img.shields.io/badge/SF%20Symbols-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+![Lottie](https://img.shields.io/badge/Lottie-00C4CC?style=for-the-badge)
+
 
 ---
 
