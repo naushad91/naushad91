@@ -5,7 +5,7 @@
 - Crafting pixel-perfect UI, smooth animations, and great UX
 - Exploring cross-platform with Flutter & React Native, and integrating AI in mobile
 - Ask me about iOS system design, MVVM/Clean Architecture, Core Data, networking, testing, and App Store best practices
-- 
+
 - 📄 Know more about me: [Resume Link](https://drive.google.com/file/d/1vRdi8CfYjtvsPJVndDFOD42_uGXBBQOO/view?usp=drive_link)
 
 
@@ -15,7 +15,7 @@
 
 # 💻 Tech Stack:
 
-Here is your stack rewritten for a **Core iOS / Mobile Engineer** profile (Swift, SwiftUI, Flutter, React Native):
+Here is my stack for a **Core iOS / Mobile Engineer** profile (Swift, SwiftUI, Flutter, React Native):
 
 ---
 
