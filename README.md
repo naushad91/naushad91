@@ -1,10 +1,11 @@
 💫 About Me:
-🔧 Core iOS Engineer | Mobile Dev Lover
-🚀 Building scalable, high-performance apps using Swift, SwiftUI, UIKit, and modern iOS architectures
-🧠 Deep into Swift Concurrency (async/await, Actors), memory management, and performance tuning
-🎨 Crafting pixel-perfect UI, smooth animations, and great UX
-🌱 Exploring cross-platform with Flutter & React Native, and integrating AI in mobile
-💬 Ask me about iOS system design, MVVM/Clean Architecture, Core Data, networking, testing, and App Store best practices
+- Core iOS Engineer | Mobile Dev Lover
+- Building scalable, high-performance apps using Swift, SwiftUI, UIKit, and modern iOS architectures
+- Deep into Swift Concurrency (async/await, Actors), memory management, and performance tuning
+- Crafting pixel-perfect UI, smooth animations, and great UX
+- Exploring cross-platform with Flutter & React Native, and integrating AI in mobile
+- Ask me about iOS system design, MVVM/Clean Architecture, Core Data, networking, testing, and App Store best practices
+- 
 - 📄 Know more about me: [Resume Link](https://drive.google.com/file/d/1vRdi8CfYjtvsPJVndDFOD42_uGXBBQOO/view?usp=drive_link)
 
 
@@ -53,13 +54,11 @@ Here is your stack rewritten for a **Core iOS / Mobile Engineer** profile (Swift
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge\&logo=fastlane\&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0A84FF?style=for-the-badge\&logo=apple\&logoColor=white)
 
-This now reflects you as a:
+
 
 **Core iOS Engineer + Mobile Dev Lover**
 with **SwiftUI, UIKit, Flutter, React Native, Concurrency, Architecture, Performance, and UI craft.**
 
-
-Here is the design section aligned with your **Mobile / iOS Engineer** profile:
 
 ### 🎨 UI / Design Tools
 
